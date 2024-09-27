@@ -1,3 +1,12 @@
+*.npy
+pm_old/
+pm_new/
+ktng/
+*.p 
+*.tar.gz 
+*.npz
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
